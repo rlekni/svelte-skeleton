@@ -1,5 +1,5 @@
 <script>
-	import Counter from './Counter.svelte';
+	import Counter from '../Counter.svelte';
 </script>
 
 <div class="container h-full mx-auto flex justify-center items-center">
